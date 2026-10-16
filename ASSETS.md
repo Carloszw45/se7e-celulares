@@ -1,0 +1,11 @@
+# Banners
+
+Geração: ferramenta integrada imagegen. Otimização técnica em WebP.
+
+## assets/hero.webp
+
+Use case: ads-marketing. Asset type: wide ecommerce website hero background, landscape 2.6:1. Primary request: premium photorealistic studio technology campaign for Brazilian mobile phone store SE7E Celulares, matching the supplied website reference's black and electric blue technology atmosphere. Scene: near-black navy studio with a low black podium, one elegant winding cyan light tube traveling behind the products, subtle blue reflections. Subjects: an upright graphite premium smartphone seen from the back with three camera lenses, matte black over-ear wireless headphones, glossy white earbuds in an open charging case, and a black smartwatch with colorful digital face. Composition: place ALL products in a rich coherent arrangement in the RIGHT 55% of the frame. LEFT 45% must be almost black with very subtle blue atmosphere, completely EMPTY for HTML copy. Products should appear real, sharply detailed and high quality, not icons, not illustrations. Device edges remain inside frame. Lighting: dramatic electric blue rim lighting with soft neutral highlights. Avoid: ANY text, letters, numbers outside watch face, watermarks, UI, borders, extra hands, gold, purple, excessive neon. This is a BACKGROUND ASSET, not a website screenshot.
+
+## assets/setup.webp
+
+Use case: ads-marketing. Asset type: wide 3:1 technology shop website banner background. Primary request: photorealistic premium tech desk still life for a Brazilian mobile accessories shop in the exact black/navy/electric-blue atmosphere of a modern electronics shopping banner. Scene: black studio with low dark podium and thin electric-blue light trails. Subjects on the RIGHT 58 percent: a real-looking slim dark laptop open with abstract electric-blue wallpaper, compact black RGB keyboard, black ergonomic wireless mouse, a small portable black bluetooth speaker, white wireless earbuds in charging case. Arrange in depth, products fully visible. LEFT 42 percent empty, near-black navy negative space for white HTML title and a button. Lighting dramatic restrained neon blue edges, realistic materials, precise forms and clean shadows. Landscape. No text or typography, no logos, no UI, no watermark, no humans.
